@@ -1,8 +1,8 @@
-<h1>👋 Hi, I’m @mabarbar</h1>
-<h4>🌱 I’m currently studying computer science and civil architecture.</h4>
-<h4>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</h4>
-<h4>💞️ I’m willing to collaborate.</h4>
-<h4>📫 How to reach me: mateusz.barzenc00@gmail.com</h4>
+<h2>👋 Hi, I’m @mabarbar</h2>
+<h5>🌱 I’m currently studying computer science and civil architecture.</h5>
+<h5>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</h5>
+<h5>💞️ I’m willing to collaborate.</h5>
+<h5>📫 How to reach me: mateusz.barzenc00@gmail.com</h5>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
