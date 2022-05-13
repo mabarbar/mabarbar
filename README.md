@@ -1,10 +1,12 @@
-<h2>👋 Hi, I’m @mabarbar</h2>
+<h2 align="center">Hi 👋, I’m Mateusz</h2>
+<h4 align="center">A passionate frontend student from Poland</h4>
 <h5>🌱 I’m currently studying computer science and civil architecture.</h5>
 <h5>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</h5>
-<h5>💞️ I’m willing to collaborate.</h5>
 <h5>📫 How to reach me: mateusz.barzenc00@gmail.com</h5>
+<h5>Roadmap: |<strike>HTML</strike>|CSS|JS|React.</h5>
+<br>
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools that I'm working on:</h4>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
