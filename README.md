@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I’m Mateusz</h2>
 <h4 align="center">A passionate frontend student from Poland</h4>
-<h5>🌱 I’m currently studying computer science and civil architecture.</h5>
-<h5>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</h5>
-<h5>📫 How to reach me: mateusz.barzenc00@gmail.com</h5>
-<h5>Roadmap: |<strike>HTML</strike>|CSS|JS|React.</h5>
+<p align="left">🌱 I’m currently studying computer science and civil architecture.</p>
+<p>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</p>
+<p>📫 How to reach me: mateusz.barzenc00@gmail.com</p>
+<p>Roadmap: | <strike>HTML</strike> | CSS | JS | React.</p>
 <br>
 
 <h4 align="left">Languages and Tools that I'm working on:</h4>
@@ -24,8 +24,12 @@
 <a href="https://www.linkedin.com/in/mateusz-barzenc-b718b821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz barzenc" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=mabarbar)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabarbar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarbar&theme=onedark)
+<br>
+![](https://komarev.com/ghpvc/?username=mabarbar)
 <!---
 mabarbar/mabarbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
