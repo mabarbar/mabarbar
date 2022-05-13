@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I’m Mateusz</h2>
-<h4 align="center">A passionate frontend student from Poland</h4>
+<h1 align="center">Hi 👋, I’m Mateusz</h1>
+<h3 align="center">A passionate frontend student from Poland</h3>
 <p align="left">🌱 I’m currently studying computer science and civil architecture.</p>
 <p>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</p>
 <p>📫 How to reach me: mateusz.barzenc00@gmail.com</p>
