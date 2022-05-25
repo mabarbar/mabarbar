@@ -3,7 +3,7 @@
 <p align="left">🌱 I’m currently studying computer science and civil architecture.</p>
 <p>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</p>
 <p>📫 How to reach me: mateusz.barzenc00@gmail.com</p>
-<p>Roadmap: | <strike>HTML</strike> | CSS | JS | React.</p>
+<p>Roadmap: | <strike>HTML</strike> | <strike>CSS</strike> | JS | React.</p>
 <br>
 
 <h4 align="left">Languages and Tools that I'm working on:</h4>
