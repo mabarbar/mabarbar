@@ -27,9 +27,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabarbar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarbar&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarbar&theme=onedark&hide=shell,ruby)
 <br>
 ![](https://komarev.com/ghpvc/?username=mabarbar&color=E06666&label=How+many+times+i+refreshed+my+Github+profile)
+
 <!---
 mabarbar/mabarbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
