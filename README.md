@@ -28,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabarbar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarbar&theme=onedark&hide=shell,ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabarbar&layout=compact&theme=onedark&hide=html,shell,ruby)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=mabarbar&color=E06666&label=How+many+times+i+refreshed+my+Github+profile)
 
