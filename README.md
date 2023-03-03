@@ -3,7 +3,6 @@
 <p align="left">🌱 I’m currently studying computer science and civil architecture.</p>
 <p>:eyeglasses: I'm ambitious, diligent and thirsty for knowledge.</p>
 <p>📫 How to reach me: mateusz.barzenc00@gmail.com</p>
-<p>Currently focused on: | <strike>HTML</strike> | <strike>CSS</strike> | <strike>JS</strike> | ReactJS | NextJS
 <br>
 
 <h4>Languages and technologies that I'm working with:</h4>
@@ -38,4 +37,5 @@ You can click the Preview link to take a look at your changes.
 <h4 align="left">Contact me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateusz-barzenc-b718b821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz barzenc" height="30" width="40" /></a>
+<a href="mailto:mateusz.barzenc00@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mateusz barzenc" height="30" width="40" /></a>
 </p>
